@@ -1,6 +1,13 @@
 🇷🇺Русская версия: [README_ru.md](README_ru.md)
 # Background Removal and Replacement
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-UI-orange?logo=gradio)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?logo=huggingface&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green)
+![BiRefNet IoU](https://img.shields.io/badge/BiRefNet_IoU-0.9337-brightgreen)
+
 Computer Vision project for **image background removal and replacement** using modern segmentation models, model benchmarking, weighted ensembling, and a Gradio web interface.
 
 ## Overview
